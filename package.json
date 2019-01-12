@@ -1,0 +1,17 @@
+{
+  "name": "lesson1_tom",
+  "version": "1.0.0",
+  "description": "comp308 lesson 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "komaldeep kaur",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "fontawesome": "^5.6.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6"
+  }
+}
