@@ -1,7 +1,7 @@
 {
-  "name": "lesson1_tom",
+  "name": "lesson2_tom",
   "version": "1.0.0",
-  "description": "comp308 lesson 1",
+  "description": "comp308 lesson 2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
